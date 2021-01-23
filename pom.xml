@@ -22,7 +22,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>file:///home/hauvv/testesb/in</url>
+         <url>file:///home/hauvv/Desktop/code</url>
        </repository>
    </distributionManagement>
     <dependencies>
